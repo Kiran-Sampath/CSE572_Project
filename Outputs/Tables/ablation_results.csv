@@ -1,0 +1,8 @@
+Configuration,Macro F1
+Lexical Only,0.6720765565269035
+Semantic Only,0.6343225741197059
+Structured Only,0.45496218633382624
+Lexical + Semantic,0.638862001717231
+Lexical + Structured,0.5260289609832083
+Semantic + Structured,0.6577846341638828
+All Three (Fusion),0.6668145394982834
